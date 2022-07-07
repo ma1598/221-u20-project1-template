@@ -1,5 +1,5 @@
 body {
-	background-image: url("/images/campus.png");
+	background-image: url("/images/really sus.png");
   background-repeat: no-repeat;
   background-size: cover;
 }
@@ -7,16 +7,16 @@ body {
 #splash_title {
 	width: 100%;
   font-size: 100px;
-  color: red;
+  color: rgb(0, 0, 0);
   opacity: 0.85;
-  text-shadow: 4px 4px 4px rgba(255, 255, 255);
+  text-shadow: 4px 4px 4px rgb(255, 0, 0);
   text-align: center;
 }
 
 .menu_button {
-	background-color: rgba(255, 0, 0, 0.5);
+	background-color: rgba(0, 0, 0, 0.5);
     font-size: 28px;
-    color: white;
+    color: rgb(255, 0, 0);
     cursor: pointer;
     text-align: center;
     user-select: none;

@@ -41,7 +41,7 @@ a {
 	text-decoration: none;
 }
 
-#redfox{
+#sus{
 	position: relative;
 	float: left;
 	height: 50px;
@@ -57,4 +57,11 @@ a {
 	max-width: 150px;
 	max-height: 150px;
 }
+
+body {
+	background-image: url("/images/pngsus.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
 
