@@ -1,9 +1,7 @@
 
 
 
-/*
- * Check ascii code for spacebar and call goToLocation in global to change URL
- */
+//Checks for key press in order to take to feed.
 function checkKeyPress(e) {
 
   if (e.keyCode == 32) {
